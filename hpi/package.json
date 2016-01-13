@@ -1,7 +1,7 @@
 {
-  "name": "jenkins-js-widgets",
+  "name": "jenkins-js-widgets-bundle",
   "version": "0.0.1",
-  "description": "Jenkins UI widgets/components",
+  "description": "Jenkins UI widgets/components Bundle",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
